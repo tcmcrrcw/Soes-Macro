@@ -1,9 +1,9 @@
 <div id="top"></div>
 
-<h3 align="center">Vivace's Mighty Omega Macro</h3>
+<h3 align="center">Soe's Mighty Omega Macro</h3>
 
   <p align="center">
-    Macro for mighty omega using Autohotkey!
+    Heavily inspired by Cweamy's Macro! More of his excellent work can be found <a href="https://github.com/Cweamy/Mighty-Omega-Macro"><strong>here</strong></a>
     <br />
     <a href="https://www.roblox.com/games/4878988249"><strong>Game Link »</strong></a>
     <br />
