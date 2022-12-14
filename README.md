@@ -43,11 +43,10 @@ First step is you want to install Autohotkey.
 
 ### Download Macro
 
-• Go to [this link](https://github.com/brogang772/Soes-Macro)
+• Go to [this link](https://github.com/brogang772/Soes-Macro) and click the green 'Code' button at the top right. Download it as a zip and extract it. Make sure it's in a folder.
 
 ### Tutorial
-   • Watch [this](https://www.youtube.com/watch?v=k5x4WTynWS0&ab_channel=caprisun) video <br>
-    more info [Discord](https://discord.gg/4rxfjtnMGt)
+   • For More Info Join The [Discord](https://discord.gg/4rxfjtnMGt)
 
 
 
