@@ -8,11 +8,11 @@
     <a href="https://www.roblox.com/games/4878988249"><strong>Game Link »</strong></a>
     <br />
     <br />
-    <a href="https://discord.gg/4rxfjtnMGt">Discord</a>
+    <a href="https://discord.gg/bZWpGbAHrQ">Discord</a>
     ·
-    <a href="https://discord.gg/4rxfjtnMGt">Report Bug</a>
+    <a href="https://discord.gg/bZWpGbAHrQ">Report Bug</a>
     ·
-    <a href="https://discord.gg/4rxfjtnMGt">Request Feature</a>
+    <a href="https://discord.gg/bZWpGbAHrQ">Request Feature</a>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Free macro for Mighty Omega. My Discord for more info [Link](https://discord.gg/4rxfjtnMGt)
+#1 Macro for Mighty Omega. My Discord for more info [Link](https://discord.gg/bZWpGbAHrQ)
 
 
 
@@ -33,18 +33,17 @@ Free macro for Mighty Omega. My Discord for more info [Link](https://discord.gg/
 <!-- GETTING STARTED -->
 ## Getting Started
 
-First step is you want to install autohotkey 
+First step is you want to install Autohotkey.
 
 
 
 ### Installation
 
-1. Download Autohotkey at [this](https://www.autohotkey.com/)
-2. Install Program
+1. Download Autohotkey [here](https://www.autohotkey.com/)
 
 ### Download Macro
 
-• How to Download it? [this](https://youtu.be/Y02T8AiiJxw)
+• Go to [this link](https://github.com/brogang772/Soes-Macro)
 
 ### Tutorial
    • Watch [this](https://www.youtube.com/watch?v=k5x4WTynWS0&ab_channel=caprisun) video <br>
